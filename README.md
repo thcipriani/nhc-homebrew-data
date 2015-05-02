@@ -27,3 +27,7 @@ To answer those burning questions:
      24 5 Gallons (19 L)
      19 6 Gallons (22.7 L)
      19 5.5 Gallons (20.82 L)
+
+**What is the average starting gravity of all winners across all categories?**
+
+![gravity plot](https://raw.githubusercontent.com/thcipriani/nhc-homebrew-data/master/examples/avg_starting_gravity.png)
